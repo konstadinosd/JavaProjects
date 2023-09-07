@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/theo/NetBeansProjects/Skaki/src/skaki/Knight.java</file>
+            <file>file:/Users/theo/NetBeansProjects/Skaki/src/skaki/InvalidLocationException.java</file>
+            <file>file:/Users/theo/NetBeansProjects/Skaki/src/skaki/King.java</file>
+            <file>file:/Users/theo/NetBeansProjects/Skaki/src/skaki/Queen.java</file>
+            <file>file:/Users/theo/NetBeansProjects/Skaki/src/skaki/Location.java</file>
+            <file>file:/Users/theo/NetBeansProjects/Skaki/src/skaki/Skaki.java</file>
+            <file>file:/Users/theo/NetBeansProjects/Skaki/src/skaki/Rook.java</file>
+            <file>file:/Users/theo/NetBeansProjects/Skaki/src/skaki/Game.java</file>
+            <file>file:/Users/theo/NetBeansProjects/Skaki/src/skaki/Color.java</file>
+            <file>file:/Users/theo/NetBeansProjects/Skaki/src/skaki/InvalidMoveException.java</file>
+            <file>file:/Users/theo/NetBeansProjects/Skaki/src/skaki/Pawn.java</file>
+            <file>file:/Users/theo/NetBeansProjects/Skaki/src/skaki/Board.java</file>
+            <file>file:/Users/theo/NetBeansProjects/Skaki/src/skaki/Piece.java</file>
+            <file>file:/Users/theo/NetBeansProjects/Skaki/src/skaki/Bishop.java</file>
+        </group>
+    </open-files>
+</project-private>
